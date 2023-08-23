@@ -1,0 +1,47 @@
+Aatesh Singh
+Jarai kalan Haliyapur Sultanpur UP
+9839660325
+as3584@srmist.edu.in
+https://www.linkedin.com/feed/
+
+**Education:**
+- Bachelor of Technology in Computer Science
+  SRM University, Kattankulathur, Tamil Nadu
+  Expected Graduation: May 2026
+  Relevant Coursework: Data Structures, Algorithms, Web Development, Database Management
+
+**Skills:**
+- Programming Languages: Python, Java, HTML, CSS,C,C++
+- Tools: Visual Studio Code, Git, Jupyter Notebook
+- Web Development: Frontend (HTML, CSS), Basic JavaScript
+- Problem Solving: Strong analytical and logical reasoning abilities
+- Communication: Effective written and verbal communication skills
+- Teamwork: Experience collaborating on group projects
+
+**Work Experience:**
+- Student Assistant
+  Department of Computer Science, SRM University
+  September 2023 - Present
+  - Assisted professors with course materials preparation, including research and compiling resources.
+  - Managed department's social media accounts, increasing follower engagement by 30%.
+  - Supported students with technical questions during lab sessions and office hours.
+
+
+**Projects:**
+- Personal Website
+  - Created a personal portfolio website showcasing coding projects and academic achievements.
+  - Utilized HTML and CSS for frontend design, highlighting skills and providing contact information.
+
+- Todo List App
+  - Developed a simple web-based to-do list application using HTML, CSS, and JavaScript.
+  - Implemented basic functionality to add, remove, and mark tasks as completed.
+
+**Extracurricular Activities:**
+- Member, Computer Science Club
+- Volunteer, Community Coding Workshop for Kids
+
+**Languages:**
+- English (Fluent)
+- Hindi
+- Chinese (Conversational)
+
